@@ -79,7 +79,7 @@ To get started with MediCare, follow these steps:
 
 ## 📞 Contact
 
-If you have any questions or feedback, please reach out to us at support@medicare.com.
+Vineet Vinod Singh -[Vineet's LinkedIn](https://www.linkedin.com/in/vineet-vinod-singh/)
 
 ---
 
