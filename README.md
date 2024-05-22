@@ -36,7 +36,7 @@ The MediCare system uses the following technologies:
 
 ## 🔄 System Flow
 
-![System Flow Diagram](Media/block-diagram.png)
+![System Flow Diagram](Media/Block-diagram.png)
 
 1. **User Interaction:** Users interact with the system via the front end.
 2. **Frontend to Backend Communication:** The front-end communicates with the backend server using HTTP requests.
