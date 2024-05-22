@@ -1,7 +1,5 @@
 # 💊 MediCare Pharmacy Management System
 
-![MediCare Logo](images/logo.png)
-
 MediCare is a comprehensive Pharmacy Management System designed to automate various aspects of pharmacy operations, ensuring accuracy, efficiency, and improved service delivery.
 
 ## 🎯 Objectives
@@ -20,9 +18,6 @@ The scope of the MediCare Pharmacy Management System includes:
 - **🔐 User Access Control:** Implementing user roles and permissions to ensure data security and privacy.
 - **📈 Reporting and Analytics:** Providing insights through reports on sales, inventory, and other relevant metrics.
 
-## 🏗️ System Architecture
-
-![System Architecture Diagram](images/system_architecture.png)
 
 MediCare's system architecture is designed for efficiency and security. It comprises:
 - **🎨 Front-end:** User-friendly interface developed using HTML, CSS, and JavaScript for seamless navigation and interaction.
@@ -31,8 +26,6 @@ MediCare's system architecture is designed for efficiency and security. It compr
 - **🔒 Security Measures:** Incorporating data encryption and secure authentication mechanisms.
 
 ## 🛠️ Technology Stack
-
-![Technology Stack](images/technology_stack.png)
 
 The MediCare system uses the following technologies:
 - **HTML:** For structuring web content.
@@ -43,18 +36,26 @@ The MediCare system uses the following technologies:
 
 ## 🔄 System Flow
 
-![System Flow Diagram](images/system_flow.png)
+![System Flow Diagram](Media/block-diagram.png)
 
-1. **User Interaction:** Users interact with the system via the front-end.
+1. **User Interaction:** Users interact with the system via the front end.
 2. **Frontend to Backend Communication:** The front-end communicates with the backend server using HTTP requests.
 3. **Data Processing:** PHP scripts process user input and interact with the MySQL database.
 4. **Database Interaction:** Retrieving or updating information related to prescriptions, inventory, sales, and user accounts.
-5. **Response Generation:** The backend generates dynamic content and sends it back to the front-end.
-6. **User Feedback:** Users receive feedback on their actions, such as successful prescription submission or completed transactions.
+5. **Response Generation:** The backend generates dynamic content and sends it back to the front end.
+6. **User Feedback:** Users receive feedback on their actions, such as successful prescription submissions or completed transactions.
+
+## Media
+
+![Home Page](Media/home-page.png)
+
+
+![Dashboard](Media/dashboard.png)
+
+
+![Patient](Media/patient.png)
 
 ## 🛡️ Security Measures
-
-![Security Measures](images/security_measures.png)
 
 - **Data Encryption:** Protecting sensitive data during transmission.
 - **User Authentication and Authorization:** Ensuring secure access control.
@@ -63,13 +64,9 @@ The MediCare system uses the following technologies:
 
 ## 📊 Scalability and Future Expansion
 
-![Scalability](images/scalability.png)
-
 The MediCare system is designed with scalability in mind, allowing for easy addition of new features or enhancements. The modular architecture and use of industry-standard technologies ensure compatibility with future updates.
 
 ## 🚀 Getting Started
-
-![Getting Started](images/getting_started.png)
 
 To get started with MediCare, follow these steps:
 1. **Clone the repository:** `git clone https://github.com/yourusername/medicare.git`
@@ -78,13 +75,7 @@ To get started with MediCare, follow these steps:
 4. **Configure the environment:** Update the configuration files with your database and server details.
 5. **Run the application:** Use your preferred server setup to start the MediCare application.
 
-## 🧑‍💻 Contributing
 
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide for more information on how to contribute to this project.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
